@@ -88,3 +88,8 @@ Visual Studio Code などのエディタでshogi.pyファイルをターミナ�
 
 ・勝ち負け判定
 　どちらかの王様(K)が取られたらゲーム終了です
+
+
+
+Sample
+
